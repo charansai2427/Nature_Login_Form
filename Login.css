@@ -3,7 +3,7 @@ body{
     justify-content: center;
     align-items: center;
     height: 90vh;
-    background-image: url(Aruku.jpeg);
+    background-image: url(Image.jpeg);
     background-size:cover;
     background-position: center;
     /* backdrop-filter: blur(2px) saturate(150%) contrast(80%) brightness(120%); */
